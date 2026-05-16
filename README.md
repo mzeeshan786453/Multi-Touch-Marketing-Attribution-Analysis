@@ -1,8 +1,3 @@
-# TEYZIX CORE – Multi-Touch Marketing Attribution Analysis
-## Task DA-2 | Domain: Data Analytics | Difficulty: Advanced
-
----
-
 ## What This Project Does
 
 This project builds a complete **Multi-Touch Marketing Attribution System**.
@@ -143,5 +138,3 @@ streamlit run dashboard.py --server.port 8502
 ```
 
 ---
-
-*TEYZIX CORE Internship | Task DA-2 | Multi-Touch Marketing Attribution*
